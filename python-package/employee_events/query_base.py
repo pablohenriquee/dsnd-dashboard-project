@@ -1,4 +1,4 @@
-from sql_execution import QueryMixin
+from .sql_execution import QueryMixin
 
 class QueryBase(QueryMixin):
 

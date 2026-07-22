@@ -1,5 +1,5 @@
-from query_base import QueryBase
-from sql_execution import query
+from .query_base import QueryBase
+from .sql_execution import query
 
 class Team(QueryBase):
 
